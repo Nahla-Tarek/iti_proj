@@ -1,4 +1,4 @@
-data_sci_proj
+end-to-end data science project
 ==============================
 
 data science project
